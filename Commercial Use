@@ -1,0 +1,318 @@
+.commercial-use-and {
+  align-items: center;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  height: 4397px;
+  overflow: hidden;
+  position: relative;
+  width: 1266px;
+}
+
+.commercial-use-and .franki-chamaki {
+  align-self: stretch;
+  height: 648px;
+  position: relative;
+  width: 100%;
+}
+
+.commercial-use-and .div {
+  -webkit-text-stroke: 1px #00000036;
+  color: #ffffff;
+  font-family: "Lexend-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 959px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 622px;
+  width: 306px;
+}
+
+.commercial-use-and .DITCH {
+  height: 145px;
+  left: 186px;
+  position: absolute;
+  top: 744px;
+  width: 903px;
+}
+
+.commercial-use-and .rectangle {
+  height: 120px;
+  left: 181px;
+  position: absolute;
+  top: 3449px;
+  width: 903px;
+}
+
+.commercial-use-and .img {
+  height: 560px;
+  left: 683px;
+  position: absolute;
+  top: 3640px;
+  width: 110px;
+}
+
+.commercial-use-and .rectangle-2 {
+  height: 482px;
+  left: 110px;
+  position: absolute;
+  top: 3679px;
+  width: 628px;
+}
+
+.commercial-use-and .p {
+  color: #000000;
+  font-family: "Lexend-Regular", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 797px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 3751px;
+  width: 359px;
+}
+
+.commercial-use-and .DITCH-2 {
+  height: 114px;
+  left: 184px;
+  position: absolute;
+  top: 966px;
+  width: 906px;
+}
+
+.commercial-use-and .image {
+  height: 612px;
+  left: 162px;
+  position: absolute;
+  top: 1822px;
+  width: 406px;
+}
+
+.commercial-use-and .ditch-the-dye {
+  height: 592px;
+  left: 223px;
+  position: absolute;
+  top: 2578px;
+  width: 313px;
+}
+
+.commercial-use-and .many-popular {
+  color: transparent;
+  font-family: "Lexend-Regular", Helvetica;
+  font-size: 21px;
+  font-weight: 400;
+  left: 614px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: justify;
+  top: 2065px;
+  width: 469px;
+}
+
+.commercial-use-and .span {
+  color: #000000;
+}
+
+.commercial-use-and .text-wrapper-2 {
+  color: #9bd159;
+  font-family: "Lexend-ExtraBold", Helvetica;
+  font-weight: 800;
+}
+
+.commercial-use-and .candies-are-among {
+  color: transparent;
+  font-family: "Lexend-ExtraBold", Helvetica;
+  font-size: 21px;
+  font-weight: 400;
+  left: 695px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: justify;
+  top: 1141px;
+  width: 391px;
+}
+
+.commercial-use-and .text-wrapper-3 {
+  color: #a6cc6a;
+  font-weight: 800;
+}
+
+.commercial-use-and .text-wrapper-4 {
+  color: #000000;
+  font-family: "Lexend-Regular", Helvetica;
+}
+
+.commercial-use-and .image-2 {
+  height: 264px;
+  left: 614px;
+  position: absolute;
+  top: 1802px;
+  width: 445px;
+}
+
+.commercial-use-and .sodas-and-soft {
+  color: transparent;
+  font-family: "Lexend-SemiBold", Helvetica;
+  font-size: 21px;
+  font-weight: 400;
+  left: 614px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: justify;
+  top: 2793px;
+  width: 469px;
+}
+
+.commercial-use-and .text-wrapper-5 {
+  color: #a6cc6a;
+  font-weight: 600;
+}
+
+.commercial-use-and .image-3 {
+  height: 168px;
+  left: 617px;
+  position: absolute;
+  top: 2586px;
+  width: 470px;
+}
+
+.commercial-use-and .our-advocacy {
+  height: 257px;
+  left: 181px;
+  position: absolute;
+  top: 1168px;
+  width: 471px;
+}
+
+.commercial-use-and .our-advocacy-2 {
+  height: 123px;
+  left: 180px;
+  position: absolute;
+  top: 1449px;
+  width: 469px;
+}
+
+.commercial-use-and .text-wrapper-6 {
+  color: #000000;
+  font-family: "Lexend-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 254px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: justify;
+  top: 2386px;
+  transform: rotate(-14.00deg);
+  width: 314px;
+}
+
+.commercial-use-and .m-m-s-halloween {
+  color: #000000;
+  font-family: "Lexend-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  left: 181px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: justify;
+  top: 1578px;
+  width: 468px;
+}
+
+.commercial-use-and .group {
+  height: 88px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1270px;
+}
+
+.commercial-use-and .overlap-group {
+  background-color: #ffffff;
+  height: 88px;
+  position: relative;
+  width: 1266px;
+}
+
+.commercial-use-and .text-wrapper-7 {
+  color: #9bd159;
+  font-family: "Lexend-Bold", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 867px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 32px;
+  width: 132px;
+}
+
+.commercial-use-and .text-wrapper-8 {
+  color: #9bd159;
+  font-family: "Lexend-Bold", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 148px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 24px;
+  width: 235px;
+}
+
+.commercial-use-and .ditch-the-dye-2 {
+  height: 72px;
+  left: 56px;
+  position: absolute;
+  top: 8px;
+  width: 71px;
+}
+
+.commercial-use-and .button {
+  align-items: center;
+  background-color: #d45858;
+  border: 1px solid;
+  border-radius: 50px;
+  display: flex;
+  gap: var(--size-space-200);
+  height: 40px;
+  justify-content: center;
+  left: 1040px;
+  overflow: hidden;
+  padding: var(--size-space-300);
+  position: absolute;
+  top: 24px;
+  width: 156px;
+}
+
+.commercial-use-and .button-2 {
+  all: unset;
+  box-sizing: border-box;
+  color: var(--color-text-brand-on-brand);
+  font-family: var(--single-line-body-small-strong-font-family);
+  font-size: var(--single-line-body-small-strong-font-size);
+  font-style: var(--single-line-body-small-strong-font-style);
+  font-weight: var(--single-line-body-small-strong-font-weight);
+  letter-spacing: var(--single-line-body-small-strong-letter-spacing);
+  line-height: var(--single-line-body-small-strong-line-height);
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.commercial-use-and .home-instance {
+  left: 757px !important;
+  position: absolute !important;
+  top: 31px !important;
+}

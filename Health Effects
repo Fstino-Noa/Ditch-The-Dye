@@ -1,0 +1,285 @@
+.health-effects {
+  align-items: center;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  height: 3315px;
+  overflow: hidden;
+  position: relative;
+}
+
+.health-effects .food-dyes-feature {
+  align-self: stretch;
+  height: 696px;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.health-effects .element {
+  height: 102px;
+  left: 184px;
+  position: absolute;
+  top: 840px;
+  width: 906px;
+}
+
+.health-effects .div {
+  color: #000000;
+  font-family: "Lexend-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: justify;
+  top: 703px;
+  width: 1235px;
+}
+
+.health-effects .ditch-the-dye {
+  height: 124px;
+  left: 71px;
+  position: absolute;
+  top: 1136px;
+  width: 549px;
+}
+
+.health-effects .a-landmark {
+  color: transparent;
+  font-family: "Lexend-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 654px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: justify;
+  top: 1091px;
+  width: 535px;
+}
+
+.health-effects .span {
+  color: #000000;
+}
+
+.health-effects .text-wrapper-2 {
+  color: #9bd159;
+}
+
+.health-effects .img {
+  height: 124px;
+  left: 72px;
+  position: absolute;
+  top: 1546px;
+  width: 549px;
+}
+
+.health-effects .in-the-u-s-food {
+  color: transparent;
+  font-family: "Lexend-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 654px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: justify;
+  top: 1501px;
+  width: 535px;
+}
+
+.health-effects .text-wrapper-3 {
+  color: #a6cc6a;
+}
+
+.health-effects .ditch-the-dye-2 {
+  height: 152px;
+  left: 124px;
+  position: absolute;
+  top: 1904px;
+  width: 459px;
+}
+
+.health-effects .ditch-the-dye-3 {
+  height: 104px;
+  left: 87px;
+  position: absolute;
+  top: 2056px;
+  width: 534px;
+}
+
+.health-effects .the-center-for {
+  color: transparent;
+  font-family: "Lexend-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 660px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: justify;
+  top: 1911px;
+  width: 535px;
+}
+
+.health-effects .the-evidence-is {
+  color: transparent;
+  font-family: "Lexend-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 135px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: justify;
+  top: 2426px;
+  width: 595px;
+}
+
+.health-effects .element-2 {
+  height: 368px;
+  left: 755px;
+  position: absolute;
+  top: 2304px;
+  width: 337px;
+}
+
+.health-effects .these-synthetic-dyes {
+  color: transparent;
+  font-family: "Lexend-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 497px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: justify;
+  top: 2884px;
+  width: 595px;
+}
+
+.health-effects .element-3 {
+  height: 349px;
+  left: 138px;
+  position: absolute;
+  top: 2723px;
+  width: 313px;
+}
+
+.health-effects .p {
+  color: #000000;
+  font-family: "Lexend-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 756px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: justify;
+  top: 2674px;
+  width: 334px;
+}
+
+.health-effects .text-wrapper-4 {
+  color: #000000;
+  font-family: "Lexend-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 138px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: justify;
+  top: 3071px;
+  width: 313px;
+}
+
+.health-effects .group {
+  height: 88px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1270px;
+}
+
+.health-effects .overlap-group {
+  background-color: #ffffff;
+  height: 88px;
+  position: relative;
+  width: 1266px;
+}
+
+.health-effects .text-wrapper-5 {
+  color: #9bd159;
+  font-family: "Lexend-Bold", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 867px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 32px;
+  width: 132px;
+}
+
+.health-effects .button {
+  align-items: center;
+  background-color: #d45858;
+  border: 1px solid;
+  border-radius: 50px;
+  display: flex;
+  gap: var(--size-space-200);
+  height: 40px;
+  justify-content: center;
+  left: 1040px;
+  overflow: hidden;
+  padding: var(--size-space-300);
+  position: absolute;
+  top: 24px;
+  width: 156px;
+}
+
+.health-effects .button-2 {
+  all: unset;
+  box-sizing: border-box;
+  color: var(--color-text-brand-on-brand);
+  font-family: var(--single-line-body-small-strong-font-family);
+  font-size: var(--single-line-body-small-strong-font-size);
+  font-style: var(--single-line-body-small-strong-font-style);
+  font-weight: var(--single-line-body-small-strong-font-weight);
+  letter-spacing: var(--single-line-body-small-strong-letter-spacing);
+  line-height: var(--single-line-body-small-strong-line-height);
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.health-effects .ditch-the-dye-4 {
+  height: 72px;
+  left: 56px;
+  position: absolute;
+  top: 8px;
+  width: 71px;
+}
+
+.health-effects .text-wrapper-6 {
+  color: #9bd159;
+  font-family: "Lexend-Bold", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 148px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 24px;
+  width: 235px;
+}
+
+.health-effects .home-instance {
+  left: 757px !important;
+  position: absolute !important;
+  top: 31px !important;
+}
